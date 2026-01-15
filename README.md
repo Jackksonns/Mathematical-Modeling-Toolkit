@@ -2,11 +2,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jackksonns-181717?logo=github)](https://github.com/Jackksonns) [![GitHub Stars](https://img.shields.io/github/stars/Jackksonns/Mathematical-Modeling-Toolkit?style=social)](https://github.com/Jackksonns/Mathematical-Modeling-Toolkit/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/Jackksonns/Mathematical-Modeling-Toolkit?style=social)](https://github.com/Jackksonns/Mathematical-Modeling-Toolkit/network/members)
 
-<div align="center">
-  <img src="assets/architecture.png" alt="项目架构图" width="800" />
-</div>
 
-#本仓库聚焦于帮助同学们备战各类数模竞赛，收集整理了数学建模与数据分析的常用脚本，按主题分类存放，方便查找和复用。内容包括优化类、预测类、评价类、图论、数据处理基础、仿真等方向，均为python实现，易于上手。#
+
+### 本仓库聚焦于帮助同学们备战各类数模竞赛，收集整理了数学建模与数据分析的常用脚本，按主题分类存放，方便查找和复用。内容包括优化类、预测类、评价类、图论、数据处理基础、仿真等方向，均为python实现，易于上手。
 
 
 

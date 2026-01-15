@@ -5,7 +5,7 @@
 本仓库聚焦于帮助同学们备战各类数模竞赛，收集整理了数学建模与数据分析的常用脚本，按主题分类存放，方便查找和复用。内容包括优化类、预测类、评价类、图论、数据处理基础、仿真等方向，均为python实现，易于上手。
 
 <div align="center">
-  <img src="assets/architecture.png" alt="项目架构图" width="600" />
+  <img src="assets/architecture.png" alt="项目架构图" width="800" />
 </div>
 
 ## 功能模块

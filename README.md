@@ -4,7 +4,9 @@
 
 本仓库收集整理了数学建模与数据分析的常用脚本，按主题分类存放，方便查找和复用。内容包括优化、预测、评价、图论、数据处理、仿真等方向，均为python实现，易于上手。
 
-<img src="assets/architecture.png" alt="项目架构图" width="600" />
+<div align="center">
+  <img src="assets/architecture.png" alt="项目架构图" width="600" />
+</div>
 
 ## 功能模块
 
